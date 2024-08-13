@@ -1,3 +1,5 @@
+Fork created for the sole purpose of updating port\_compiler to 1.15.0.
+
 # Snappy as nif for Erlang
 
 ## Acknowledgements
